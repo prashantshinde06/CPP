@@ -1,5 +1,7 @@
 {
     "files.associations": {
-        "HelloWin.C": "cpp"
+        "HelloWin.C": "cpp",
+        "iostream": "cpp",
+        "vector": "cpp"
     }
 }
